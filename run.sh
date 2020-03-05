@@ -1,0 +1,1 @@
+docker run -p 6379:6379 -d --name redis-lru isaacluo/redis:lru-1g
